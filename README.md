@@ -23,6 +23,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+Ran multiple scenarios of creating, responding-to, and solving tickets.
+
+1.	Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+2.	Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+3.	Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 <p>
 <img src="https://i.imgur.com/ahSyVJI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
